@@ -1,0 +1,13 @@
+h1 {  
+    border: grey solid 4px;
+    background-color: grey;
+    text-align: center;
+} 
+
+.img-wrapper {
+    display: flex;
+}
+
+p{
+    padding-left: 2%
+}
